@@ -1,1 +1,3 @@
-# DocVR
+# docvr
+
+Virtual Reality Doctor 
